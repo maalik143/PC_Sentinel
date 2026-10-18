@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+quarantine/
+scan_cache.json
+sentinel_db.json
